@@ -2,4 +2,4 @@
 
 Random data stuff
 
-- (Government Expenditure @ KE)[https://github.com/bilha-analytics/DataSaysWhat/blob/master/NairobiCountyODKK/BudgetData.ipynb]
+- (KE.Gov Expenditure)[https://github.com/bilha-analytics/DataSaysWhat/blob/master/NairobiCountyODKK/BudgetData.ipynb]
