@@ -1,0 +1,16 @@
+Processing Search Engine Results
+The web can be thought of as a huge corpus of unannotated text. Web search engines provide an efficient means of searching this large quantity of text for relevant linguistic examples. The main advantage of search engines is size: since you are searching such a large set of documents, you are more likely to find any linguistic pattern you are interested in. Furthermore, you can make use of very specific patterns, which would only match one or two examples on a smaller example, but which might match tens of thousands of examples when run on the web. A second advantage of web search engines is that they are very easy to use. Thus, they provide a very convenient tool for quickly checking a theory, to see if it is reasonable.
+
+Table 3.1:
+
+Google Hits for Collocations: The number of hits for collocations involving the words absolutely or definitely, followed by one of adore, love, like, or prefer. (Liberman, in LanguageLog, 2005).
+
+Google hits	adore	love	like	prefer
+absolutely	289,000	905,000	16,200	644
+definitely	1,460	51,000	158,000	62,600
+ratio	198:1	18:1	1:10	1:97
+Unfortunately, search engines have some significant shortcomings. First, the allowable range of search patterns is severely restricted. Unlike local corpora, where you write programs to search for arbitrarily complex patterns, search engines generally only allow you to search for individual words or strings of words, sometimes with wildcards. Second, search engines give inconsistent results, and can give widely different figures when used at different times or in different geographical regions. When content has been duplicated across multiple sites, search results may be boosted. Finally, the markup in the result returned by a search engine may change unpredictably, breaking any pattern-based method of locating particular content (a problem which is ameliorated by the use of search engine APIs).
+
+Note
+
+Your Turn: Search the web for "the of" (inside quotes). Based on the large count, can we conclude that the of is a frequent collocation in English?

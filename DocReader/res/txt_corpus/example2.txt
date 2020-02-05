@@ -1,0 +1,11 @@
+Processing Raw Text
+The most important source of texts is undoubtedly the Web. It's convenient to have existing text collections to explore, such as the corpora we saw in the previous chapters. However, you probably have your own text sources in mind, and need to learn how to access them.
+
+The goal of this chapter is to answer the following questions:
+
+How can we write programs to access text from local files and from the web, in order to get hold of an unlimited range of language material?
+How can we split documents up into individual words and punctuation symbols, so we can carry out the same kinds of analysis we did with text corpora in earlier chapters?
+How can we write programs to produce formatted output and save it in a file?
+In order to address these questions, we will be covering key concepts in NLP, including tokenization and stemming. Along the way you will consolidate your Python knowledge and learn about strings, files, and regular expressions. Since so much text on the web is in HTML format, we will also see how to dispense with markup.
+
+Note
