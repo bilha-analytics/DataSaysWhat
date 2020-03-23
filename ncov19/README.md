@@ -7,6 +7,7 @@
 **Methodology:** Descriptive and exploratory analysis 
 
 ### Summary
-[Analysis Notebook](https://nbviewer.jupyter.org/github/bilha-analytics/DataSaysWhat/blob/545efccb2cfcd382197c2c7323383a61bbf53f1f/ncov19/quick_view_covid-19.ipynb) 
+[Measures Notebook](https://nbviewer.jupyter.org/github/bilha-analytics/DataSaysWhat/blob/545efccb2cfcd382197c2c7323383a61bbf53f1f/ncov19/quick_view_covid-19.ipynb) 
+[Cases Notebook](https://nbviewer.jupyter.org/github/bilha-analytics/DataSaysWhat/blob/fb748cda60ae52e805d66206a7d9a9de66c37fe8/ncov19/cases_over_time.ipynb)
 
 
