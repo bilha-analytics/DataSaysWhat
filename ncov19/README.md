@@ -1,4 +1,4 @@
-# ncov-19 Measures
+# nCoV-19 
 
 **Data Source:** [Humanitarian Data Exchange - HDX](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 
@@ -10,7 +10,7 @@
 
 **Methodology:** Descriptive and exploratory analysis 
 
-![nCOV-19 Cases](some_img.png)
+![nCoV-19 Cases](some_img.png)
 
 
 ### Summary
